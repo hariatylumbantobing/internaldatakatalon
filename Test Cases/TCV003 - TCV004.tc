@@ -6,14 +6,14 @@
    <comment></comment>
    <testCaseGuid>ba6ff7f9-8758-4b21-a0c5-cb457a05b09a</testCaseGuid>
    <variable>
-      <defaultValue>'dwdqwd'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>6f89ca3e-bac2-45e2-86c7-5bc12c8c3d35</id>
       <masked>false</masked>
       <name>usname</name>
    </variable>
    <variable>
-      <defaultValue>'fewqdqwd'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>3bc23609-84d3-4009-9c97-a1b6bcd51359</id>
       <masked>false</masked>
